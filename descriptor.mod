@@ -1,4 +1,4 @@
-version="1.074"
+version="1.0"
 tags={
 	"Decisions"
 	"Character Interactions"
@@ -6,4 +6,3 @@ tags={
 }
 name="Mass Demand Promote Legends"
 supported_version="1.13.*"
-remote_file_id=""

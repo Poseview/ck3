@@ -1,0 +1,15 @@
+﻿l_english:
+ mod_mass_promote_legend_subjects_decision: "My legend must grow!"
+ mod_mass_promote_legend_subjects_decision_desc: "The whole world must discover my legend!"
+ mod_mass_promote_legend_subjects_decision_tooltip: "The whole world must discover my legend!"
+
+ mod_promote_legend_direct_vassals_loc: "$game_concept_direct_vassals$ ([SCOPE.ScriptValue('mod_promote_legend_direct_vassals_number')])"
+ mod_promote_legend_direct_vassals_tooltip: "Demand to promote my legend from all your $game_concept_direct_vassals$."
+ 
+ mod_promote_legend_indirect_vassals_loc: "Indirect $game_concept_vassals$ ([SCOPE.ScriptValue('mod_promote_legend_indirect_vassals_number')])"
+ mod_promote_legend_indirect_vassals_tooltip: "Demand to promote my legend from all your indirect $game_concept_vassals$."
+ 
+ mod_promote_legend_house_loc: "Housemembers ([SCOPE.ScriptValue('mod_promote_legend_house_number')])"
+ mod_promote_legend_house_tooltip: "Demand to promote my legend from all your housemembers."
+ 
+ mod_mass_promote_legend_subjects_decision_confirm: "Send requests"
